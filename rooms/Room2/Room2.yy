@@ -27,7 +27,10 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1CC0FC2A","properties":[],"isDnd":false,"objectId":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":7.0,"scaleY":0.59375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1A038F89","properties":[],"isDnd":false,"objectId":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.703125,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":691.0,"y":640.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1E42D27A","properties":[],"isDnd":false,"objectId":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.703125,"scaleY":2.59375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":602.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E2B8AC6","properties":[],"isDnd":false,"objectId":{"name":"obj_blob","path":"objects/obj_blob/obj_blob.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.4571426,"scaleY":2.6111112,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":551.0,"y":550.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E2B8AC6","properties":[],"isDnd":false,"objectId":{"name":"obj_blob","path":"objects/obj_blob/obj_blob.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.3714284,"scaleY":1.1666666,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":570.0,"y":572.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_22E34FE7","properties":[],"isDnd":false,"objectId":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.703125,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":494.0,"y":494.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57A48A8A","properties":[],"isDnd":false,"objectId":{"name":"Obj_return","path":"objects/Obj_return/Obj_return.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.78125,"scaleY":0.59375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":513.0,"y":728.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7AEB13CF","properties":[],"isDnd":false,"objectId":{"name":"Obj_next","path":"objects/Obj_next/Obj_next.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.2676108,"scaleX":0.40625,"scaleY":1.40625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":312.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":19,"gridY":26,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_7F006D79","spriteId":{"name":"spr_signs","path":"sprites/spr_signs/spr_signs.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":0.0,},
@@ -49,6 +52,9 @@
     {"name":"inst_1A038F89","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_1E42D27A","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_4E2B8AC6","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_22E34FE7","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_57A48A8A","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_7AEB13CF","path":"rooms/Room2/Room2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -72,7 +78,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "forestrooms",
-    "path": "folders/forestrooms.yy",
+    "name": "rooms",
+    "path": "folders/rooms.yy",
   },
 }
