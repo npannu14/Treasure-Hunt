@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Obj_start",
-  "spriteId": {
-    "name": "Spr_start",
-    "path": "sprites/Spr_start/Spr_start.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
